@@ -1,3 +1,8 @@
+<div style="width: 100%;">
+  <a href="https://github.com/ShahdAhmed">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&size=35&duration=2500&color=37629F&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Hi+There+..+%F0%9F%91%8B+;I+am+Shahd+Ahmed;" alt="Typing SVG" /></a>
+  </a>
+</div>
 
 <h1 align="left">Hi there👋</h1>
 
