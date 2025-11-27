@@ -53,8 +53,8 @@
 Feel free to explore my projects and reach out for collaboration! 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=github)](https://ShahdAhmed-06.github.io/My-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/Shahd Ahmed/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/Shahd Ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ShahdAhmed-06/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ShahdAhmed-06)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?logo=codeforces)](https://codeforces.com/profile/ShahdAbdelgawad)
 ---
 📩 **Email:** [sa5562113@gmail.com](mailto:sa5562113@gmail.com)
